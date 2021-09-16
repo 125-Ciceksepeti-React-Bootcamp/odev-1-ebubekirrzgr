@@ -8,4 +8,4 @@
 - CSS, 
 - VanillaJS.
 
-![proje](C:\Users\ebubek\Desktop\bootcamp\1.Hafta Ödev\img\proje.gif)
+![proje](https://raw.githubusercontent.com/125-Ciceksepeti-React-Bootcamp/odev-1-ebubekirrzgr/main/img/proje.gif?token=AGC433JAYXZRUFVHRGRHPCDBIPEBY)
